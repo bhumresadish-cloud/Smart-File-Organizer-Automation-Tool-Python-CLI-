@@ -201,6 +201,7 @@ Contributions welcome! Areas for improvement:
 MIT License - feel free to use in your projects!
 
 ## 👨‍💻 Author
+Sadish Bhumre
 
 Built as a professional portfolio project demonstrating:
 - Clean Python architecture
